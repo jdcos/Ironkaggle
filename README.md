@@ -1,1 +1,1 @@
-# Ironkaggle
+This project's main goal is to develop skills towards machine learning by displaying and analysing different models of supervised method. The data set contains a total of 21613 rows and 21 features where we can find information related to the different houses sold in the Seattle area from May 2014 to May 2015. We set the price for the house as the target in order to discover the Regression model which predicts with the highest accuracy. Aditionally, we show different plots to amplify our understanding of the data which will translate into stronger conclusions.
